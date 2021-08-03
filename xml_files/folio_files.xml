@@ -1,0 +1,55 @@
+<root>
+	<styles>
+		<include src="file://{resources}/styles/base_styles.css" />
+		<include src="file://{resources}/styles/info_panels.css" />
+	</styles>
+
+	<ClientUIDialogPanel class="InWorldInfoPanel">
+		<Panel class="Page" id="YourAddonName_Welcome">
+			<Panel class="TextArea">
+				<Image src="file://{images}/custom_destination/18650743_folio/18650743-01.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-02.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-03.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-04.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-05.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-06.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-07.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-08.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-09.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-10.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-11.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-12.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-13.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-14.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-15.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-16.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-17.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-18.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-19.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-20.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-21.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-22.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-23.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-24.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-25.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-26.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-27.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-28.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-29.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-30.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-31.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-31.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-33.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-34.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-35.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-36.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-37.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-38.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-39.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-40.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-41.png" scaling="stretch-to-cover-preserve-aspect"/>
+                <Image src="file://{images}/custom_destination/18650743_folio/18650743-42.png" scaling="stretch-to-cover-preserve-aspect"/>                
+			</Panel>
+		</Panel>
+	</ClientUIDialogPanel>
+</root>
