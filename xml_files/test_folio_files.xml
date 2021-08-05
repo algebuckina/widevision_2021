@@ -1,4 +1,4 @@
-<!--This-->
+<!--This what the folios will look like in code FOR NOW. I want to make a better user experience, but this is very basically how it will work-->
 <root>
 	<styles>
 		<include src="file://{resources}/styles/base_styles.css" />
